@@ -1,0 +1,51 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+
+}
+#logo {
+    display: inline-block;
+    width: 70px;
+    vertical-align: middle;
+    margin: 15px;
+}
+.logo-text {
+    display: inline-block;
+    vertical-align: middle;
+    font-size: 45px;
+    font-weight: bold;
+}
+body{
+    background-color: #f6f8f9;
+    font-family: Arial, Helvetica, sans-serif;
+}
+header{
+    background-color: white;
+    margin-bottom: 40px;
+}
+.primo-container{
+    width: 75%;
+    margin: auto;
+    background-color: white;
+    padding: 20px;
+    border: 1px solid #f6f8f9;
+    border-radius: 5px 5px 0px 0px;
+}
+.btn{
+    background-color: #47adf1;
+    color: white;
+    padding: 7px 10px;
+    border-radius: 5px;
+    font-size: 14px;
+    border: 1px solid #47adf1;
+    margin-left: 10px;
+}
+.btn-white{
+    border: 1px solid #dadee1;
+    color: #dadee1;
+    padding: 7px 10px;
+    border-radius: 5px;
+    font-size: 14px;
+    margin-left: 2px;
+}
